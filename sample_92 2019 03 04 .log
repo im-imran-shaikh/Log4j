@@ -1,0 +1,21 @@
+2019-03-04 15:25:24 INFO  ProgramaicallyConfigureLog4j:11 - Student name : Imran Shaikh
+2019-03-04 15:25:24 INFO  ProgramaicallyConfigureLog4j:12 - Studetn class : 10-A
+2019-03-04 15:25:24 INFO  ProgramaicallyConfigureLog4j:13 - Student RollNo : 92
+2019-03-04 15:34:29 INFO  root:11 - Student name : Imran Shaikh
+2019-03-04 15:34:29 INFO  root:12 - Studetn class : 10-A
+2019-03-04 15:34:29 INFO  root:13 - Student RollNo : 92
+2019-03-04 15:36:17 INFO  ProgramaicallyConfigureLog4j:11 - Student name : Imran Shaikh
+2019-03-04 15:36:17 INFO  ProgramaicallyConfigureLog4j:12 - Studetn class : 10-A
+2019-03-04 15:36:17 INFO  ProgramaicallyConfigureLog4j:13 - Student RollNo : 92
+2019-03-04 15:43:16 [INFO ] com.log.ProgramaicallyConfigureLog4j studentDetails - Student name : Imran Shaikh
+2019-03-04 15:43:16 [INFO ] com.log.ProgramaicallyConfigureLog4j studentDetails - Studetn class : 10-A
+2019-03-04 15:43:16 [INFO ] com.log.ProgramaicallyConfigureLog4j studentDetails - Student RollNo : 92
+2019-03-04 17:06:32 [INFO ] com.log.ProgramaicallyConfigureLog4j studentDetails - Student name : Imran Shaikh
+2019-03-04 17:06:32 [INFO ] com.log.ProgramaicallyConfigureLog4j studentDetails - Studetn class : 10-A
+2019-03-04 17:06:32 [INFO ] com.log.ProgramaicallyConfigureLog4j studentDetails - Student RollNo : 92
+2019-03-04 17:07:31 [INFO ] com.log.ProgramaicallyConfigureLog4j studentDetails - Student name : Imran Shaikh
+2019-03-04 17:07:31 [INFO ] com.log.ProgramaicallyConfigureLog4j studentDetails - Studetn class : 10-A
+2019-03-04 17:07:31 [INFO ] com.log.ProgramaicallyConfigureLog4j studentDetails - Student RollNo : 92
+2019-03-04 17:12:19 [INFO ] Student studentDetails - Student name : Imran Shaikh
+2019-03-04 17:12:19 [INFO ] Student studentDetails - Studetn class : 10-A
+2019-03-04 17:12:19 [INFO ] Student studentDetails - Student RollNo : 92

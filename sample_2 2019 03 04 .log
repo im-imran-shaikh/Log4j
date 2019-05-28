@@ -1,0 +1,16 @@
+2019-03-04 15:07:47 INFO  ProgramaicallyConfigureLog4j:59 - this is information log
+2019-03-04 15:07:47 ERROR ProgramaicallyConfigureLog4j:60 - this is error log
+2019-03-04 15:07:47 DEBUG ProgramaicallyConfigureLog4j:61 - this is debug log
+2019-03-04 15:07:47 INFO  ProgramaicallyConfigureLog4j:62 - -----------------------------------
+2019-03-04 15:08:02 INFO  ProgramaicallyConfigureLog4j:59 - this is information log
+2019-03-04 15:08:02 ERROR ProgramaicallyConfigureLog4j:60 - this is error log
+2019-03-04 15:08:02 DEBUG ProgramaicallyConfigureLog4j:61 - this is debug log
+2019-03-04 15:08:02 INFO  ProgramaicallyConfigureLog4j:62 - -----------------------------------
+2019-03-04 15:10:38 INFO  ProgramaicallyConfigureLog4j:58 - this is information log
+2019-03-04 15:10:38 ERROR ProgramaicallyConfigureLog4j:59 - this is error log
+2019-03-04 15:10:38 DEBUG ProgramaicallyConfigureLog4j:60 - this is debug log
+2019-03-04 15:10:38 INFO  ProgramaicallyConfigureLog4j:61 - -----------------------------------
+2019-03-04 15:35:50 INFO  ProgramaicallyConfigureLog4j:58 - this is information log
+2019-03-04 15:35:50 ERROR ProgramaicallyConfigureLog4j:59 - this is error log
+2019-03-04 15:35:50 DEBUG ProgramaicallyConfigureLog4j:60 - this is debug log
+2019-03-04 15:35:50 INFO  ProgramaicallyConfigureLog4j:61 - -----------------------------------

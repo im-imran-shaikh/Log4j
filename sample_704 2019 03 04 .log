@@ -1,0 +1,36 @@
+2019-03-04 15:26:15 INFO  ProgramaicallyConfigureLog4j:11 - employee name : imran 
+2019-03-04 15:26:15 INFO  ProgramaicallyConfigureLog4j:12 - employee address : ghatkopar
+2019-03-04 15:26:15 INFO  ProgramaicallyConfigureLog4j:13 - employee ID : emp704
+2019-03-04 15:57:11 [INFO ] com.log.ProgramaicallyConfigureLog4j employeeDetail - employee name : imran 
+2019-03-04 15:57:11 [INFO ] com.log.ProgramaicallyConfigureLog4j employeeDetail - employee address : ghatkopar
+2019-03-04 15:57:11 [INFO ] com.log.ProgramaicallyConfigureLog4j employeeDetail - employee ID : emp704
+2019-03-04 17:08:31 [INFO ] com.log.ProgramaicallyConfigureLog4j employeeDetail - employee name : imran 
+2019-03-04 17:08:31 [INFO ] com.log.ProgramaicallyConfigureLog4j employeeDetail - employee address : ghatkopar
+2019-03-04 17:08:31 [INFO ] com.log.ProgramaicallyConfigureLog4j employeeDetail - employee ID : emp704
+2019-03-04 17:08:34 [INFO ] com.log.ProgramaicallyConfigureLog4j employeeDetail - employee name : imran 
+2019-03-04 17:08:34 [INFO ] com.log.ProgramaicallyConfigureLog4j employeeDetail - employee address : ghatkopar
+2019-03-04 17:08:34 [INFO ] com.log.ProgramaicallyConfigureLog4j employeeDetail - employee ID : emp704
+2019-03-04 17:09:28 [INFO ] ProgramaicallyConfigureLog4j employeeDetail - employee name : imran 
+2019-03-04 17:09:28 [INFO ] ProgramaicallyConfigureLog4j employeeDetail - employee address : ghatkopar
+2019-03-04 17:09:28 [INFO ] ProgramaicallyConfigureLog4j employeeDetail - employee ID : emp704
+2019-03-04 17:10:57 [INFO ] ProgramaicallyConfigureLog4j employeeDetail - employee name : imran 
+2019-03-04 17:10:57 [INFO ] ProgramaicallyConfigureLog4j employeeDetail - employee address : ghatkopar
+2019-03-04 17:10:57 [INFO ] ProgramaicallyConfigureLog4j employeeDetail - employee ID : emp704
+2019-03-04 17:11:47 [INFO ] Employee employeeDetail - employee name : imran 
+2019-03-04 17:11:47 [INFO ] Employee employeeDetail - employee address : ghatkopar
+2019-03-04 17:11:47 [INFO ] Employee employeeDetail - employee ID : emp704
+2019-03-04 17:14:32 [INFO ] com.log.Employee employeeDetail - employee name : imran 
+2019-03-04 17:14:32 [INFO ] com.log.Employee employeeDetail - employee address : ghatkopar
+2019-03-04 17:14:32 [INFO ] com.log.Employee employeeDetail - employee ID : emp704
+2019-03-04 17:21:31 [INFO ] com.log.Employee employeeDetail - employee name : imran 
+2019-03-04 17:21:31 [INFO ] com.log.Employee employeeDetail - employee address : ghatkopar
+2019-03-04 17:21:31 [INFO ] com.log.Employee employeeDetail - employee ID : emp704
+2019-03-04 17:27:04 [INFO ] com.log.Employee employeeDetail - employee name : imran class com.log.Employee
+2019-03-04 17:27:04 [INFO ] com.log.Employee employeeDetail - employee address : ghatkopar
+2019-03-04 17:27:04 [INFO ] com.log.Employee employeeDetail - employee ID : emp704
+2019-03-04 17:27:13 [INFO ] com.log.Employee employeeDetail - employee name : imran class com.log.Employee
+2019-03-04 17:27:13 [INFO ] com.log.Employee employeeDetail - employee address : ghatkopar
+2019-03-04 17:27:13 [INFO ] com.log.Employee employeeDetail - employee ID : emp704
+2019-03-04 17:27:53 [INFO ] com.log.Employee employeeDetail - employee name : imran Employee
+2019-03-04 17:27:53 [INFO ] com.log.Employee employeeDetail - employee address : ghatkopar
+2019-03-04 17:27:53 [INFO ] com.log.Employee employeeDetail - employee ID : emp704
